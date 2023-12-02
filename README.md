@@ -5,7 +5,7 @@ An animated scatterplot to visualize the change of countries' population, life e
 
 The scatter plot uses the size of the dots to indicate the population of each country, and the colors represent the continent where each country is located.
 
-The notebook, including thorough comments and interactive features using Plotly, can be found in `Animation_Visualizations.ipynb`
+The notebook, including thorough comments and interactive features using Plotly, can be found in `Animated_Visualizations.ipynb`
 
 ## Data Source
 [Gapminder Foundation](https://www.gapminder.org/data/)
